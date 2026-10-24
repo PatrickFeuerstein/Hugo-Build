@@ -144,3 +144,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
             dateFormat   = "2. January 2006"
             description  = "Beschreibung der Webseite"
             # footerText   = ""
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
