@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/pfeuers/Documents/Arbeit/Lebenslauf/Homepage",
+	"sourceRoot": "/Users/pfeuers/Documents/Arbeit/Lebenslauf/Hugo-Build",
 	"sources": [
 		"themes/hugo-theme-introduction/assets/sass/style.sass",
 		"themes/hugo-theme-introduction/assets/sass/_fonts.sass",
