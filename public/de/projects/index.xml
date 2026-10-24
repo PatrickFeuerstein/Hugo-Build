@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Meine gegenwärtigen Forschungsprojekte on Patrick Feuerstein</title>
+		<link>http://localhost:1313/de/projects/</link>
+		<description>Recent content in Meine gegenwärtigen Forschungsprojekte on Patrick Feuerstein</description>
+		<generator>Hugo</generator>
+		<language>de</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Oct 2026 15:37:48 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/de/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fairwork</title>
+				<link>http://localhost:1313/de/projects/fairwork/</link>
+				<pubDate>Sat, 24 Oct 2026 15:13:59 +0200</pubDate>
+				<guid>http://localhost:1313/de/projects/fairwork/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>FORSEE</title>
+				<link>http://localhost:1313/de/projects/forsee/</link>
+				<pubDate>Sat, 24 Oct 2026 15:37:48 +0200</pubDate>
+				<guid>http://localhost:1313/de/projects/forsee/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Homes on My New Hugo Project</title>
+		<link>http://localhost:1313/home/</link>
+		<description>Recent content in Homes on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/home/cv/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/cv/</guid>
+				<description>&lt;h1 id=&#34;lebenslauf&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#lebenslauf&#34;&gt;Lebenslauf&lt;/a&gt;&lt;/h1&gt;&#xA;&#xA;&lt;h2 id=&#34;beruflicher-werdegang&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#beruflicher-werdegang&#34;&gt;Beruflicher Werdegang&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;seit 03/2021&lt;/strong&gt;&lt;br&gt;&#xA;Postdoctoral Research Fellow im Fairwork Projekt am Wissenschaftszentrum Berlin für Sozialforschung (WZB)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;01/2021 - 02/2021&lt;/strong&gt;&lt;br&gt;&#xA;Gastwissenschaftler am Wissenschaftszentrum Berlin für Sozialforschung (WZB) in der Abteilung &amp;ldquo;Globalisierung, Arbeit und Produktion&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10/2020 - 02/2021&lt;/strong&gt;&lt;br&gt;&#xA;Vertretung der Professur für Soziologie mit den Schwerpunkten „Arbeit, Unternehmen und Wirtschaft“ an der Georg-August-Universität&#xA;Göttingen&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;04/2020 – 09/2020&lt;/strong&gt;&lt;br&gt;&#xA;Vorgezogene Vertretung der W2-Professur für Soziologie mit dem Schwerpunkt „Digitalisierung in der Arbeitswelt“ an der Georg-August-Universität Göttingen&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/home/old_index/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/old_index/</guid>
+				<description>&lt;h1 id=&#34;wer-ich-bin&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#wer-ich-bin&#34;&gt;Wer ich bin&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Ich bin Postdoctoral Research Fellow im Fairwork-Sekretariat am Wissenschaftszentrum Berlin für Sozialforschung (WZB).&lt;/p&gt;&#xA;&lt;p&gt;Vor meiner Tätigkeit im Fairwork-Projekt war ich Lehrbeauftragter, wissenschaftlicher Mitarbeiter und Vertretungsprofessor für Soziologie mit den Schwerpunkten &amp;ldquo;Digitalisierung in der Arbeitswelt&amp;rdquo; und &amp;ldquo;Arbeit, Unternehmen und Wirtschaft&amp;rdquo; an der Georg-August-Universität in Göttingen. Ich bin außerdem seit 2006 Mitglied des Soziologischen Forschungsinstituts an der Georg-August-Universität Göttingen (SOFI).&lt;/p&gt;&#xA;&lt;p&gt;Ich habe in Soziologie an der Universität Göttingen mit einer Arbeit über die Auswirkungen von IT-Offshoring auf die Arbeitsbedingungen von Softwareentwicklern in Deutschland und Indien promoviert. Meine letzten Forschungsprojekte konzentrierten sich auf kollaborative und offene Innovationsprozesse in der IT-Industrie und auf Arbeits- und Lebensbedingungen in globalen Produktionsnetzwerken in der Automobil- und Schokoladenindustrie. Meine Forschung ist empirisch, meist qualitativ und von kritisch-theoretischen und pragmatistischen Theorien stark beeinflusst.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/home/publications/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/publications/</guid>
+				<description>&lt;h1 id=&#34;ausgewählte-publikationen-neu&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#ausgew%c3%a4hlte-publikationen-neu&#34;&gt;Ausgewählte Publikationen neu&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Bla&lt;/p&gt;&#xA;&lt;p&gt;Bla&lt;/p&gt;&#xA;&lt;p&gt;Bla&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/home/teaching/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/home/teaching/</guid>
+				<description>&lt;h1 id=&#34;lehrportfolio&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#lehrportfolio&#34;&gt;Lehrportfolio&lt;/a&gt;&lt;/h1&gt;&#xA;&#xA;&lt;h2 id=&#34;lehrphilosophie&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#lehrphilosophie&#34;&gt;Lehrphilosophie&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Studierende der Soziologie betreten ein sehr komplexes wissenschaftliches Feld verschiedener theoretischer Schulen und Ansätze, in dem die Orientierung zunächst häufig schwerfällt. Das Ziel universitärer Lehre sollte daher meiner Meinung nach darauf zielen, Studierende zu befähigen, sich eigenständig in diesem Feld zu bewegen, indem sie lernen, sich mit zentralen Ansätzen und Positionen der (Arbeits-) Soziologie kritisch auseinanderzusetzen und eine eigene Perspektive zu entwickeln.&#xA;Ich verstehe mich in dieser Hinsicht in meiner Rolle als Lehrender primär als Unterstützer der Studierenden darin, sich im Bereich der (Arbeits-) Soziologie wissenschaftlich zu positionieren. Diese Zielsetzung verlangt zum einen eine gründliche und intensive Kenntnis zentraler Ansätze der Soziologie und zum anderen eine eigenständige und kritische Auseinandersetzung mit deren jeweiligen Grenzen und Beschränkungen.&#xA;So versuche ich in meinen Veranstaltungen stets eine Mischung zwischen gründlicher, intensiver Textarbeit und gemeinsamer, kritischer Reflexion des behandelten Stoffes herzustellen und den Studierenden die Möglichkeit zu geben, eigene Themen, Ideen und Initiativen einzubringen. In meinen Veranstaltungen sehe ich meine Aufgabe vor allem in der angemessenen Auswahl und intensiven Aufbereitung der zu behandelnden Themen, erwarte aber in der Diskussion und Kritik der vorgestellten Ansätze eine eigenständige und aktive Teilnahme der Studierenden.&#xA;Ich begreife die Lehre als einen sehr zentralen Aspekt meines wissenschaftlichen Tätigkeitsprofils. Zum Einen ermöglicht sie mir die Weitergabe der eigenen Begeisterung für das Fach an junge WissenschaftlerInnen. Zum Anderen stellt sie auch eine wichtige Ergänzung zur eigenen Forschungstätigkeit dar: Ergebnisse und Argumente aus der eigenen Forschung können in den Lehrveranstaltungen einerseits zur kritischen Diskussion gestellt werden, andererseits kann die Interaktion mit den Studieren auch wichtige Impulse und Anregungen für die eigene, weitere Forschungstätigkeit hervorbringen.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
