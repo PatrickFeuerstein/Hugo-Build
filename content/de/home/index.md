@@ -1,6 +1,5 @@
 ---
-title: "Hallo, ich bin Patrick Feuerstein"
+title: "Hallo, hier entsteht meine Website"
 headless: true
 ---
 
-Ich bin Postdoctoral Research Fellow am Wissenschaftszentrum Berlin für Sozialforschung (WZB).
