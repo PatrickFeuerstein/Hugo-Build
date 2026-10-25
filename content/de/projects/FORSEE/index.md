@@ -7,5 +7,5 @@ resources:
     - src: FORSEE-tagline-taustalla-2025-omg.png
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
-draft: false
+draft: true
 ---
